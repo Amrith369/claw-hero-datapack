@@ -1,0 +1,1 @@
+say Air Strike Slash!
