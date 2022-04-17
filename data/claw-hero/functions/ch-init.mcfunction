@@ -1,1 +1,11 @@
-say Starting File!
+scoreboard objectives add status trigger
+scoreboard objectives add status_all trigger
+scoreboard objectives add check_energy trigger
+scoreboard objectives add take_energy trigger
+scoreboard objectives add give_energy trigger
+scoreboard objectives add claw-rope trigger
+scoreboard objectives add craft_hp_potion trigger
+scoreboard objectives add craft_sp_potion trigger
+scoreboard objectives add ropeprof dummy
+scoreboard objectives add ropesmelt dummy
+scoreboard objectives add claw_ep dummy
