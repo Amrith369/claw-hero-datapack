@@ -1,0 +1,18 @@
+{
+    "display": {
+        "title": "Vassal Claw",
+        "description": "attack 3",
+        "icon": {
+            "item": "minecraft:carrot_on_a_stick",
+            "nbt": "{CustomModelData:455031}"
+        },
+        "show_toast": true,
+        "announce_to_chat": false
+    },
+        "criteria": {
+        "trigger": {
+            "trigger": "minecraft:impossible"
+        }
+    }
+}
+

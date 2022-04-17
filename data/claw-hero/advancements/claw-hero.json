@@ -1,0 +1,19 @@
+{
+    "display": {
+        "title": "Vassal Claw",
+        "description": "",
+        "icon": {
+            "item": "minecraft:carrot_on_a_stick",
+            "nbt": "{CustomModelData:455031}"
+        },
+        "show_toast": false,
+        "announce_to_chat": false
+    },
+    "parent": "global:amrith",
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:tick"
+        }
+    }
+}
+
